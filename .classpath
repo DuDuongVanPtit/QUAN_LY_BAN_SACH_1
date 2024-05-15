@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="source/nbbuild/generated/src"/>
+	<classpathentry kind="src" path="source/src"/>
+	<classpathentry kind="lib" path="lbi/lbi/com.mysql.jdbc_5.1.5.jar"/>
+	<classpathentry kind="lib" path="lbi/lbi/CopyLibs/org-netbeans-modules-java-j2seproject-copylibstask.jar"/>
+	<classpathentry kind="lib" path="lbi/lbi/gson-2.2.1.jar"/>
+	<classpathentry kind="lib" path="lbi/lbi/javax.mail-1.3.3.01.jar"/>
+	<classpathentry kind="lib" path="lbi/lbi/mssql-jdbc-12.4.0.jre8.jar"/>
+	<classpathentry kind="lib" path="source/nbbuild/web/WEB-INF/lib/com.mysql.jdbc_5.1.5.jar"/>
+	<classpathentry kind="lib" path="source/nbbuild/web/WEB-INF/lib/gson-2.2.1.jar"/>
+	<classpathentry kind="lib" path="source/nbbuild/web/WEB-INF/lib/javax.mail-1.3.3.01.jar"/>
+	<classpathentry kind="lib" path="source/nbbuild/web/WEB-INF/lib/mssql-jdbc-12.4.0.jre8.jar"/>
+	<classpathentry kind="lib" path="source/WebContent/WEB-INF/lib/com.mysql.jdbc_5.1.5.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="output" path="source/build/classes"/>
+</classpath>
